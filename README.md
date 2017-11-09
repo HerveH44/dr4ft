@@ -13,7 +13,7 @@ Bugs or feature requests? Feel free to [open an issue](https://github.com/dr4fte
 
 # Installation
 
-Install NodeJS, then just run `make run`
+Install NodeJS, then just run `npm install && npm start`
 in your terminal and visit [http://localhost:1337](http://localhost:1337).
 
 
@@ -25,3 +25,4 @@ and is licensed under the MIT license.
   [ES6]: https://github.com/lukehoban/es6features
   [Traceur]: https://github.com/google/traceur-compiler
   [React]: https://github.com/facebook/react
+	
